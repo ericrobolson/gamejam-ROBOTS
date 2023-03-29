@@ -1,0 +1,14 @@
+[package]
+name = "game"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+#ggez = {package="ggez", version="0.7"}
+#glam = {package="glam", version="0.20"}
+#image = {package="image", version="0.24"}
+
+[build-dependencies]
+cc = "1.0"
